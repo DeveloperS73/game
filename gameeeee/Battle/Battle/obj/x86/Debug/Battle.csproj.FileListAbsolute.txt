@@ -1,0 +1,9 @@
+D:\Git\Game\gameeeee\Battle\Battle\bin\Debug\Battle.exe
+D:\Git\Game\gameeeee\Battle\Battle\bin\Debug\Battle.pdb
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\Battle.csproj.GenerateResource.Cache
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\Battle.exe
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\Battle.pdb
+D:\Git\Game\gameeeee\Battle\Battle\obj\x86\Debug\Battle.csprojResolveAssemblyReference.cache
